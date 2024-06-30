@@ -16,4 +16,3 @@ vs code에서는 rebase를 하는것이 편했고 intellij의 경우 merge를 �
 </details>
 
 
-# bookdo7stars-BE
