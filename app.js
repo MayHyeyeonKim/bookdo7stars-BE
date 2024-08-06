@@ -60,8 +60,8 @@ mongoose
     app.use('/api', indexRouter);
 
     // 서버 시작
-    app.listen(process.env.PORT || 4000, () => {
-      console.log(`Server is running on port 4000`);
+    app.listen(process.env.PORT || 'https://bookdo7stars-be.onrender.com', () => {
+      console.log(`Server is running on port https://bookdo7stars-be.onrender.com`);
     });
   })
   .catch((err) => {
